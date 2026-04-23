@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Java Developer</p>
+<p align="left">Backend Developer focused on Java and Spring Boot, building REST APIs and scalable applications.<br><br>I have hands-on experience developing backend systems, working with relational and non-relational databases, and applying best practices such as clean code, testing, and containerization.<br><br>💡 What I work with:<br>- Java, Spring Boot, Spring Security<br>- REST APIs, JWT Authentication<br>- PostgreSQL, MongoDB<br>- Docker, CI/CD<br>- AWS & Azure<br><br>🚀 Currently focused on improving my skills in backend development, software architecture, and cloud environments.<br><br>📌 Feel free to explore my projects and repositories!</p>
 
 ###
 
